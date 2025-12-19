@@ -48,8 +48,6 @@ Upload your folder and rename it to `Project 03`. The structure must be:
     ├── images/             # All JPG/PNG images
     └── label_images.csv    # CSV with 'images' and 'target' columns
 2. Requirements
-code
-Bash
 pip install tensorflow opencv-python pandas numpy matplotlib scikit-learn
 ```
 📈 Evaluation Metrics
