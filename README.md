@@ -51,6 +51,7 @@ Upload your folder and rename it to `Project 03`. The structure must be:
 code
 Bash
 pip install tensorflow opencv-python pandas numpy matplotlib scikit-learn
+```
 📈 Evaluation Metrics
 The model is evaluated using metrics suitable for imbalanced medical classification:
 AUC-ROC: Measures the overall ability of the CNN to distinguish between classes.
